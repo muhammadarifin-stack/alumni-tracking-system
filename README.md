@@ -54,3 +54,8 @@ https://muhammadarifin-stack.github.io/alumni-tracking-system/
 ## Catatan
 Sistem ini menggunakan simulasi hasil pencarian karena beberapa sumber seperti Google Scholar memiliki batasan penggunaan API dan Terms of Service. Simulasi digunakan untuk menunjukkan alur sistem pelacakan alumni secara konseptual.
 
+
+## Identitas Mahasiswa
+Nama : Muhammad Arifin
+NIM : 2023103703311054
+Kelas : Rekayasa Kebutuhan D
