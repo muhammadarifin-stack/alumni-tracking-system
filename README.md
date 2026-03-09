@@ -1,18 +1,29 @@
 # Sistem Pelacakan Alumni Publik
+Project simulasi sistem pelacakan alumni menggunakan HTML, CSS, dan JavaScript.
+
 
 ## Deskripsi Sistem
-Sistem ini dibuat untuk melakukan pelacakan alumni melalui sumber publik seperti Google Scholar, ORCID, dan website umum.
+Sistem ini dirancang untuk mensimulasikan proses pelacakan alumni berdasarkan informasi publik yang tersedia secara online.
 
-Sistem bekerja dengan cara:
-- Membuat profil target alumni
-- Menghasilkan query pencarian
-- Mengambil kandidat hasil pencarian
-- Mengekstrak sinyal identitas
-- Menghitung confidence score
-- Melakukan cross validation
-- Menyimpan evidence pelacakan
+## Fitur Sistem
+•⁠  ⁠Menampilkan data alumni
+•⁠  ⁠Generate profil alumni
+•⁠  ⁠Generate query pencarian
+•⁠  ⁠Ekstraksi sinyal
+•⁠  ⁠Perhitungan confidence score
+•⁠  ⁠Cross validation
+•⁠  ⁠Penentuan status alumni
+•⁠  ⁠Penyimpanan evidence
 
----
+## Metode Sistem
+Sistem pelacakan alumni ini menggunakan beberapa metode utama:
+
+1.⁠ ⁠Profil Target Alumni  
+2.⁠ ⁠Query Generator  
+3.⁠ ⁠Evidence Extraction  
+4.⁠ ⁠Confidence Score  
+5.⁠ ⁠Cross Validation  
+
 
 ## Link Project
 
@@ -42,3 +53,4 @@ https://muhammadarifin-stack.github.io/alumni-tracking-system/
 
 ## Catatan
 Sistem ini menggunakan simulasi hasil pencarian karena beberapa sumber seperti Google Scholar memiliki batasan penggunaan API dan Terms of Service. Simulasi digunakan untuk menunjukkan alur sistem pelacakan alumni secara konseptual.
+
